@@ -77,9 +77,7 @@ Portfolio/
 │   │   └── script.js
 │   │
 │   └── image/
-│       ├── profile.jpg
-│       ├── project-images
-│       └── icons
+│       ├── ...
 │
 ├── index.html
 └── README.md
