@@ -18,7 +18,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_DEMO_LINK"><strong>🌐 Live Demo</strong></a> •
+  <a href="https://adil-raj.netlify.app"><strong>🌐 Live Demo</strong></a> •
   <a href="https://github.com/adilraj786"><strong>GitHub</strong></a> •
   <a href="YOUR_LINKEDIN_URL"><strong>LinkedIn</strong></a>
 </p>
