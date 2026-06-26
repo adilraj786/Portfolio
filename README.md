@@ -18,9 +18,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 </p>
 
 <p align="center">
-  <a href="https://adil-raj.netlify.app"><strong>🌐 Live Demo</strong></a> •
-  <a href="https://github.com/adilraj786"><strong>GitHub</strong></a> •
-  <a href="YOUR_LINKEDIN_URL"><strong>LinkedIn</strong></a>
+  <a href="https://adil-raj.netlify.app"><strong>🌐 Live Demo</strong></a>
 </p>
 
 </div>
@@ -144,14 +142,6 @@ git push origin feature-name
 ```
 
 5. Open a Pull Request
-
----
-
-## 📬 Connect With Me
-* 💼 LinkedIn: https://linkedin.com/in/adil-raj
-* 💻 GitHub: https://github.com/adilraj786
-
----
 
 ## ⭐ Support
 
