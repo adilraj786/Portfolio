@@ -107,30 +107,6 @@ For development, it is recommended to use the **Live Server** extension in Visua
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your portfolio below.
-
-### Home Page
-
-```
-assets/screenshots/home.png
-```
-
-### Projects Section
-
-```
-assets/screenshots/projects.png
-```
-
-### Contact Section
-
-```
-assets/screenshots/contact.png
-```
-
----
-
 ## 🎯 Future Improvements
 
 * Dark Mode
