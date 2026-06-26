@@ -1,4 +1,4 @@
-````markdown
+
 # 🌐 Personal Portfolio
 
 <div align="center">
@@ -204,4 +204,3 @@ This project is licensed under the **MIT License**.
 ⭐ Don't forget to star the repository if you found it helpful!
 
 </div>
-```
