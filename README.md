@@ -148,9 +148,7 @@ git push origin feature-name
 ---
 
 ## 📬 Connect With Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: https://linkedin.com/in/adil-raj
 * 💻 GitHub: https://github.com/adilraj786
 
 ---
